@@ -37,4 +37,10 @@ Maing group - Spanish/English:
 Proyecto en Easyeda:
 -[Avance del proyecto en Easyeda](https://u.easyeda.com/subcritical/carrier_io_board_atlas_mini_copy)
 
+---
+---
+
 ![BASE CARRIER IO-BOARD-ATLAS-easyeda](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/LAROJAFOTOS/Sin%20nombre.png)
+
+---
+![BASE CARRIER IO-BOARD-ATLAS-easyeda_3D](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/LAROJAFOTOS/Easyeda_con_todas_las_huellas_3D.png)
