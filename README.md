@@ -9,4 +9,4 @@ La versatilidad de IO-BOARD-ATLAS es muy grande dado que existe la posibilidad d
 
 Se muestra el diseño más reducido en coste de ¡LA ROJA!, dispone de EAR y una sensibilidad alta en el Vídeo Digital.
 
-[BASE CARRIER IO-BOARD-ATLAS](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/LAROJAFOTOS/ATLAS_LA_ROJA.png)
+![BASE CARRIER IO-BOARD-ATLAS](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/LAROJAFOTOS/ATLAS_LA_ROJA.png)
