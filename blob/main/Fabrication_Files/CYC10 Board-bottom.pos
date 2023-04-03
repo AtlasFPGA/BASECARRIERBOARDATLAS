@@ -1,0 +1,11 @@
+### Module positions - created on lun 03 abr 2023 20:22:18 ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+G***      LOGO      Atlas_nuevo1       -58.9051   -61.5112  180.0000  bottom
+G***      LOGO      Bytecnia           -53.3146   -82.6694  180.0000  bottom
+G***      LOGO      Logo_Experiment    -78.0034   -82.1030  180.0000  bottom
+RN2       10K       Array0603          -69.6315   -93.1516  -90.0000  bottom
+RN3       10K       Array0603          -75.0722   -93.1516  -90.0000  bottom
+## End
