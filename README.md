@@ -23,6 +23,6 @@ Se muestra el diseño más reducido en coste de ¡LA ROJA!, dispone de EAR y una
 
 ## Direct links
 - [Schematics (and assembly drawing)](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/SCHEME/IO_BOARD_ATLAS_FPGA_CYC1000_MAX1000.pdf)
-- [Altium project](kICAD & EASYEDA)
+- [project](kICAD & EASYEDA)
 - [Fabrication files](Fabrication_Files/)
 - [Fabrication files for JLCPCB Assembly (With small ordering Howto)](JLCPCB/)
