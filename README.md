@@ -35,4 +35,4 @@ Maing group - Spanish/English:
 ---
 
 Proyecto en Easyeda:
--[Easyeda](https://oshwlab.com/subcritical/carrier_io_board_atlas_mini_SD)
+-[Easyeda](https://oshwlab.com/subcritical/carrier_io_board_atlas_mini_copy)
