@@ -6,3 +6,7 @@ Cierto es que los componentes usados son de un tamaño mucho menor al modelo ini
 La versatilidad de IO-BOARD-ATLAS es muy grande dado que existe la posibilidad de agregar el diseño de los recolocadores, que se veran incrementados con el paso del tiempo, en este caso se vé una pi-pico y el diseño del recolocador de Carlos Palmero.
 
 ![MULTIPURPOSE IO-BOARD-ATLAS](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/Uso_de_recolocadores_en_IO-BOARD-ATLAS.jpg)
+
+Se muestra el diseño más reducido en coste de ¡LA ROJA!, dispone de EAR y una sensibilidad alta en el Vídeo Digital.
+
+[BASE CARRIER IO-BOARD-ATLAS](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/LAROJAFOTOS/ATLAS_LA_ROJA.png)
