@@ -30,3 +30,4 @@ Se muestra el diseño más reducido en coste de ¡LA ROJA!, dispone de EAR y una
 The community around the PiStorm Project is best reached on Telegram:
 Maing group - Spanish/English:
 -[Telegram](https://t.me/INICIATIVAATLAS)
+-[Easyeda](https://oshwlab.com/subcritical/carrier_io_board_atlas_mini_SD)
