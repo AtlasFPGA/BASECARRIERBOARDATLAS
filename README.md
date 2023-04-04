@@ -44,3 +44,7 @@ Proyecto en Easyeda:
 
 ---
 ![BASE CARRIER IO-BOARD-ATLAS-easyeda_3D](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/LAROJAFOTOS/Easyeda_con_todas_las_huellas_3D.png)
+---
+
+
+![proyecto publicado en easyeda IO-BOARD-ATLAS-easyeda_3D](https://github.com/AtlasFPGA/BASECARRIERBOARDATLAS/blob/main/LAROJAFOTOS/PROYECTO_ATLAS_MINI_EASYEDA.png)
