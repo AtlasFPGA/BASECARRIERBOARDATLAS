@@ -27,7 +27,7 @@ Se muestra el diseño más reducido en coste de ¡LA ROJA!, dispone de EAR y una
 - [Fabrication files](Fabrication_Files/)
 - [Fabrication files for JLCPCB Assembly (With small ordering Howto)](JLCPCB/)
 
-The community around the PiStorm Project is best reached on Telegram:
+The community around the IO BOARD ATLAS Project is best reached on Telegram:
 Maing group - Spanish/English:
 -[Telegram](https://t.me/INICIATIVAATLAS)
 ---
