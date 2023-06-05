@@ -1,0 +1,3 @@
+Se sube la lista de componentes interativos usada por Rhoderick en la última tirada de la placa I/O BOARD ATLAS.
+Esta lista muestra los costes asociados a la misma sin tener en cuenta las horas de montaje.
+La información suministrada para la creación de I/O Board ATLAS MINI ha quedado verificada al permitir que 2 electrónicos separados 800Km reproducan la misma.
