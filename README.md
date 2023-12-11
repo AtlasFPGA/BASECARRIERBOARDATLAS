@@ -1,5 +1,6 @@
 # IO BOARD ATLAS FOR CYC1000 AND MAX1000 "BASECARRIERBOARDATLAS" 
 ---
+# https://t.me/INICIATIVAATLAS -> El grupo ATLAS esta en Telegram pueden encontrarnos allí, Group ATLAS in Telegram
 ---
 
 
